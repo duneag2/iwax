@@ -2,7 +2,8 @@
 
 ## Usage
 ### 1. Train Wav2vec 2.0-AASIST Backbone
-First, train the Wav2vec 2.0-AASIST model in the `aasist` directory. This step follows the training process of [AASIST GitHub](https://github.com/clovaai/aasist/)
+First, train the Wav2vec 2.0-AASIST model in the `aasist` directory. This step follows the training process of [AASIST GitHub](https://github.com/clovaai/aasist/).
+
 Run the following command from the `aasist` directory:
 
 ```
