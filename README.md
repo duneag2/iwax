@@ -29,7 +29,7 @@ To apply the Sinc filter before classification, use the `iwax_sinc.py` script:
 ```
 python iwax_sinc.py --low_freq 128 --high_freq 8000 --time 2 \
     --save_dir /path/to/save/the/final/model \
-    --w2v2 /path/to/w2v2/you/trained/in/step1`
+    --w2v2 /path/to/w2v2/you/trained/in/step1
 ```
 
 `--low_freq`: Lower cutoff frequency (in Hz) for the Sinc filter.
